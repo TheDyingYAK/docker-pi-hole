@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_adservers.txt
+
+https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_adservers_popup.txt
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
+
+
+once all block lists are added to pihole go into the docker terminal for the docker container and run
+'''bash
+pihole -g  
+'''
+
